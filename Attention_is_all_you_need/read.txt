@@ -1,3 +1,5 @@
 the paper that started it all :  https://arxiv.org/abs/1706.03762
 
 the best explanation :  https://www.youtube.com/watch?v=4Bdc55j80l8&t=5s
+
+self / cross, hard / soft attention : https://www.youtube.com/watch?v=fEVyfT-gLqQ&t=536s
