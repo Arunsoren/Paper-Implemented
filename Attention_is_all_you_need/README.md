@@ -12,4 +12,5 @@ Attention:
 
 ![Attent-3](https://github.com/Arunsoren/Paper-Implemented/assets/31899874/95aebc55-7c53-4f1d-994e-971781fb41d4)
 
-
+output is :  512(64*8) x max sequence length 
+output  will pass to Add & norm layer. 
