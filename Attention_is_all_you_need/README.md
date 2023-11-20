@@ -14,3 +14,5 @@ Attention:
 
 output is :  512(64*8) x max sequence length 
 output  will pass to Add & norm layer. 
+also d_model is 512 so the size of  input and output will be same (30 x 200 x 512)
+                                                 (batch_size x max_sequence_length x d_model(512)/multihead(512(64*8)))
